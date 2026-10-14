@@ -1,0 +1,11 @@
+CARIMBO PDF PWA 1.6 — DADOS LOCAIS
+
+1. No GitHub, use Adicionar arquivo > Enviar arquivos.
+2. Envie os seis arquivos desta pasta (NÃO envie o ZIP).
+3. Publique o GitHub Pages usando Settings > Pages > Deploy from a branch > main/root.
+4. Na primeira utilização em cada aparelho, carregue a imagem da assinatura, preencha os dados e clique em Salvar carimbo neste aparelho.
+5. Os dados ficam no IndexedDB do navegador e não são enviados ao GitHub. Apagar os dados do site ou trocar de navegador exigirá novo cadastro.
+6. A imagem enviada deve conter preferencialmente apenas a assinatura (sem dados e datas impressos).
+7. As datas são geradas automaticamente; use somente a data efetiva da conferência/atestação.
+8. O PDF é processado no próprio aparelho. Não é assinatura digital certificada.
+9. O código do aplicativo é público; os dados locais cadastrados não ficam no repositório.
